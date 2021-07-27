@@ -1,6 +1,6 @@
 # CupcakeCorner
 
 ### Project 10 (HWS)
-Codale, URLSession
+Codable, URLSession
 
 ![](screenshot3-3.png)
